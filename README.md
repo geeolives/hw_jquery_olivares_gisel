@@ -1,5 +1,5 @@
 # Links
-* https://github.com/geeolives/hw_jquery_olivares_gisel
+* [My jQuery HW](https://github.com/geeolives/hw_jquery_olivares_gisel)
 
 # Resources
 * I did not use any resources outside of the lectures and my notes on this assignment.
